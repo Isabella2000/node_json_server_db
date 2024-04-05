@@ -1,0 +1,20 @@
+{
+  "name": "proyecto-node",
+  "version": "1.0.0",
+  "description": "Proyecto en node con muchas herramientas jiji",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "json-server --watch db.json",
+    "dev": "nodemon ./src/index.js"
+  },
+  "author": "Isabella Collante",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^3.1.0"
+  },
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "json-server": "^1.0.0-alpha.23"
+  }
+}

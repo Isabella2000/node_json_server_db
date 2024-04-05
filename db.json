@@ -1,0 +1,60 @@
+{
+  "profesores": [
+    {
+      "nombre": "Isabella",
+      "apellido": "Collante Mendez",
+      "materias": [
+        {
+          "nombre": "curso de Node Js"
+        },
+        {
+          "nombre": "curso de JS Js"
+        },
+        {
+          "nombre": "curso de React Js"
+        }
+      ],
+      "id": "2199"
+    }
+  ],
+  "alumnos": [
+    {
+      "nombre": "Jhon",
+      "apellido": "Doe",
+      "promedio": 2.2,
+      "id": "e22a"
+    },
+    {
+      "nombre": "Laura",
+      "apellido": "Peldate",
+      "promedio": 2.3,
+      "id": "0501"
+    },
+    {
+      "nombre": "Luis",
+      "apellido": "Serrozo",
+      "promedio": 2.4,
+      "id": "43ad"
+    }
+  ],
+  "cursos": [
+    {
+      "nombre": "Jhon",
+      "duracion": 10,
+      "dificultad": "alta",
+      "id": "6d4f"
+    },
+    {
+      "nombre": "Laura",
+      "duracion": 10,
+      "dificultad": "intemedia",
+      "id": "2608"
+    },
+    {
+      "nombre": "Luis",
+      "duracion": 10,
+      "dificultad": "baja",
+      "id": "083e"
+    }
+  ]
+}
