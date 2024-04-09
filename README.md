@@ -1,5 +1,5 @@
 # Json Server con NodeJS
-Realizamos un servidor web donde servimos una web de tipo red social como la del pajarito
+Realizamos un servidor para manejar los datos HTTP por medio de Postman y con NODE
 
 ## Comandos
 1. npm run dev
@@ -12,8 +12,6 @@ Realizamos un servidor web donde servimos una web de tipo red social como la del
 -   **NODE**: Se debe instalar NODE en el sistema operativo
 -   **POSTMAN**: Debe tener Instalado POSTMAN
 
-
 ## Wow
-
 > Sino mira el video de sergio code PRACTICA 1 https://www.youtube.com/watch?v=I17ln313Pjk&t=4s
 
