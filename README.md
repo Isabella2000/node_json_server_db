@@ -3,10 +3,9 @@ Realizamos un servidor para manejar los datos HTTP por medio de Postman y con NO
 
 ## Comandos
 1. npm run dev
-2. npm i env-var
-3. npm i express dotenv
-4. npm i body-parser
-5. npm i nodemon --save-dev
+2. npm i dotenv
+3. npm i nodemon --save-dev
+4. npm i json-server
 
 ## Requiere:
 -   **NODE**: Se debe instalar NODE en el sistema operativo
